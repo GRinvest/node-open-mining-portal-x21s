@@ -1,0 +1,18 @@
+{
+  "name": "node-open-mining-portal",
+  "version": "1.0.11",
+  "vcs": "git",
+  "tools": {
+    "node": "8",
+    "npm": "*"
+  },
+  "entryPoints": {
+    "pool": {
+      "tool": "node",
+      "path": "init.js",
+      "tune": {
+        "scalable": false
+      }
+    }
+  }
+}
