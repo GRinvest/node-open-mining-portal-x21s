@@ -48,7 +48,7 @@
         "nonce": "^1.0.4",
         "redis": "^2.7.1",
         "request": "^2.83.0",
-        "stratum-pool": "git://github.com/GRinvest/node-stratum-pool-x21s.git",
+        "stratum-pool": "git://github.com/GRinvest/node-stratum-pool-x21s.git#916bbddcc700117a4d10ce0c600bbb44faba38d0",
         "winston": "^3.0.0-rc1",
         "winston-daily-rotate-file": "^2.0.0-rc.2"
     },
